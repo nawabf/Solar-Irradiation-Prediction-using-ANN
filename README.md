@@ -6,3 +6,5 @@ How to run:
 3. Run any of the 10 models. each model incorporate different combination of input.
 4. This model will check 1:60 neurons in each model and can check the different number of seeds.
 5. The model will give MAPE, RMSE AND MBE values for each neuron and will also show the minimum values
+6. If want to trian and test cascaded and elman then in model code line 15 change newff with newcf and newelm.
+   
